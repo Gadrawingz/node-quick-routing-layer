@@ -1,0 +1,31 @@
+{
+  "name": "routing-layer",
+  "version": "1.0.0",
+  "description": "Basic routing layer using Node/Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gadrawingz/node-quick-routing-layer.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "route",
+    "routing",
+    "routing-layer"
+  ],
+  "author": "Gad Iradufasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gadrawingz/node-quick-routing-layer/issues"
+  },
+  "homepage": "https://github.com/Gadrawingz/node-quick-routing-layer#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
